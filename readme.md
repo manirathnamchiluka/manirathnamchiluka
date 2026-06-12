@@ -22,6 +22,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-9FEF00?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117)](mailto:chilmanirathnam1729@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-9FEF00?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117)](https://github.com/ManirathnamChiluka)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-9FEF00?style=for-the-badge&logo=tryhackme&logoColor=0d1117&labelColor=0d1117)](https://tryhackme.com/p/ManirathnamChiluka)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-HTB%20Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0d1117&labelColor=0d1117)](https://profile.hackthebox.com/profile/019d721d-b4d4-710e-974e-12fd346d2527)
 
 <br/>
 
@@ -294,6 +295,7 @@ Credential: `THM-OQXK6YS6AA`
 
 <div align="center">
 
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-HTB%20Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0d1117&labelColor=0d1117)](https://profile.hackthebox.com/profile/019d721d-b4d4-710e-974e-12fd346d2527)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ManirathnamChiluka)
 [![PortSwigger](https://img.shields.io/badge/PortSwigger%20Academy-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net/web-security)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
@@ -382,6 +384,7 @@ open_to:
 [![Gmail](https://img.shields.io/badge/Gmail-chilmanirathnam1729%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chilmanirathnam1729@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ManirathnamChiluka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManirathnamChiluka)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-ManirathnamChiluka-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ManirathnamChiluka)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-HTB%20Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0d1117&labelColor=0d1117)](https://profile.hackthebox.com/profile/019d721d-b4d4-710e-974e-12fd346d2527)
 
 </div>
 
