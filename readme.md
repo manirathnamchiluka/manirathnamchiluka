@@ -298,10 +298,6 @@ Credential: `THM-OQXK6YS6AA`
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-HTB%20Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0d1117&labelColor=0d1117)](https://profile.hackthebox.com/profile/019d721d-b4d4-710e-974e-12fd346d2527)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ManirathnamChiluka)
 [![PortSwigger](https://img.shields.io/badge/PortSwigger%20Academy-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net/web-security)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com)
 
 </div>
 
