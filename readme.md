@@ -303,25 +303,6 @@ Credential: `THM-OQXK6YS6AA`
 
 ---
 
-## `> ./analytics --github-stats`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManirathnamChiluka&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=9FEF00&icon_color=9FEF00&text_color=c9d1d9&border_color=9FEF00&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManirathnamChiluka&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=9FEF00&text_color=c9d1d9&border_color=9FEF00"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=ManirathnamChiluka&theme=dark&background=0d1117&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00&sideLabels=9FEF00&dates=c9d1d9&border=9FEF00"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManirathnamChiluka&theme=react-dark&bg_color=0d1117&color=9FEF00&line=9FEF00&point=ffffff&area=true&hide_border=false"/>
-
-</div>
-
----
-
 ## `> cat /ops/current_focus.yaml`
 
 ```yaml
